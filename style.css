@@ -1,0 +1,46 @@
+.ma{
+	margin: 0 37%;
+	padding: 0;
+}
+
+img{ 
+margin: 0 50%;
+padding: 0;
+ }
+.row{
+	width: 400px;
+	height: 150px;
+	background-color: #cc9999;
+	padding: 30px;
+}
+.fa {
+	width: 60px;
+    height: 100px;
+    margin: 10px;
+}
+
+ .marta{
+ 	width: 1000px;
+    height: 1000px;
+background: #585553;
+color: white;
+
+ }
+
+.obrazek1{
+	margin: 15px;
+	display: inline-block;
+	float: left;
+}
+
+.obrazek2{
+	margin: 15px;
+	display: inline-block;
+	float: left;
+}
+
+.obrazek3{
+	margin: 15px;
+	display: inline-block;
+	float: left;
+}
